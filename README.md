@@ -1,2 +1,2 @@
-# neumann-janos
+# RestMan
 Restaurant management application
